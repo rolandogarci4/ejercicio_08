@@ -1,5 +1,5 @@
 
-
+#En este punto ya se arreglo todo. Mensaje para hacer el último commit.
 def credentialsGenerator(txt, complement, year):
     name = txt[0:3].lower() + '.' + complement.lower()
     pwd = complement.lower + str(year)
