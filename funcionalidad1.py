@@ -1,6 +1,6 @@
 
 
-de credentialsGenerator(txt, complement, year):
+def credentialsGenerator(txt, complement, year):
     name = txt[0:3].lower() + '.' + complement.lower()
     pwd = complement.lower + str(year)
     return name, pwd
