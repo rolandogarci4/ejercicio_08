@@ -1,6 +1,6 @@
 
 
-de credentialsGenerator(txt, complement, year):
+def credentialsGenerator(txt, complement, year):
     name = txt[0:3].lower() + '.' + complement.lower()
     pwd = complement.lower + str(year)
     return name, pwd
@@ -10,5 +10,5 @@ class Person1:
     ap_paterno = 'Doe'
     year = 2020
                 
-autoUsername = credentialsGenerator(Person.nombre Person1.ap_paterno, Person1.year)
+autoUsername = credentialsGenerator(Person1.nombre, Person1.ap_paterno, Person1.year)
 print('auto-username: ', autoUsername)
