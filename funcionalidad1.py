@@ -21,3 +21,12 @@ print('aaa')
 print('aaa')
 print('aaa')
 
+
+print('bbb')
+print('auto-username: ', autoUsername)
+print('auto-username: ', autoUsername)
+print('auto-username: ', autoUsername)
+
+
+
+
