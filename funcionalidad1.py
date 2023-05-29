@@ -12,3 +12,12 @@ class Person1:
                 
 autoUsername = credentialsGenerator(Person1.nombre, Person1.ap_paterno, Person1.year)
 print('auto-username: ', autoUsername)
+
+print('aaa')
+print('aaa')
+print('aaa')
+print('aaa')
+print('aaa')
+print('aaa')
+print('aaa')
+
