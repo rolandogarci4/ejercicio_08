@@ -27,8 +27,10 @@ print('auto-username: ', autoUsername)
 print('auto-username: ', autoUsername)
 print('auto-username: ', autoUsername)
 
+print('auto-username: ', autoUsername)
+print('auto-username: ', autoUsername)
+print('auto-username: ', autoUsername)
 
-print('auto-username: ', autoUsername)
-print('auto-username: ', autoUsername)
-print('auto-username: ', autoUsername)
+a = 'JOSEPH WECO'
+print(a)
 
