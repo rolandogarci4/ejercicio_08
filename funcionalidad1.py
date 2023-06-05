@@ -22,12 +22,12 @@ print('aaa')
 print('aaa')
 
 
-print('bbb')
+print('Hola bbsitas')
 print('auto-username: ', autoUsername)
 print('auto-username: ', autoUsername)
 print('auto-username: ', autoUsername)
 
-a = 'JOSEPH WECO'
+a = 'Rolando Weco'
 print(a)
 
 
